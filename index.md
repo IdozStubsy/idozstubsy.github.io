@@ -2,4 +2,4 @@
 
 
 
-[Start](https://idozstubsy.github.io/start.html)** **[About](https://idozstubsy.github.io/about.html)**
+Bored? Play some games here.

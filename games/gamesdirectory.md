@@ -4,21 +4,52 @@
 
 Games:
 
+[Bit Planes](https://idozstubsy.github.io/games/assets/bit-planes.htm)
+
+[Boxing Random](https://idozstubsy.github.io/games/assets/boxing-random.htm)
+
+[Cookie Clicker](https://idozstubsy.github.io/games/assets/cookie-clicker.htm)
+
+[Crossy Road](https://idozstubsy.github.io/games/assets/crossy-road.htm)
+
+[Dreadhead Parkour](https://idozstubsy.github.io/games/assets/dreadhead-parkour.htm)
+
+[Drift Boss](https://idozstubsy.github.io/games/assets/drift-boss.htm)
+
+[Drive Mad](https://idozstubsy.github.io/games/assets/drive-mad.htm)
+
+[Elastic Face](https://idozstubsy.github.io/games/assets/elastic-face.htm)
+
+[Getaway Shootout](https://idozstubsy.github.io/games/assets/getaway-shootout.htm)
+
+[Monkey Mart](https://idozstubsy.github.io/games/assets/monkey-mart.htm)
+
+[Moto X3M](https://idozstubsy.github.io/games/assets/moto-x3m.htm)
+
+[Paper.io 2](https://idozstubsy.github.io/games/assets/paper-io-2.htm)
+
+[Ragdoll Archers](https://idozstubsy.github.io/games/assets/ragdoll-archers.htm)
+
+[Rooftop Snipers](https://idozstubsy.github.io/games/assets/rooftop-snipers.htm)
+
+[Snow Rider](https://idozstubsy.github.io/games/assets/snow-rider.htm)
+
+[Snow Road](https://idozstubsy.github.io/games/assets/snow-road.htm)
+
+[Soccer Random](https://idozstubsy.github.io/games/assets/soccer-random.htm)
+
+[Temple Run 2](https://idozstubsy.github.io/games/assets/temple-run-2.htm)
+
+[Time Shooter 3](https://idozstubsy.github.io/games/assets/time-shooter-3.htm)
+
+[Tomb of the Mask](https://idozstubsy.github.io/games/assets/tomb-of-the-mask.htm)
+
+[Vex 6](https://idozstubsy.github.io/games/assets/vex-6.htm)
+
 [Vex 7](https://idozstubsy.github.io/games/assets/vex-7.htm)
 
 [Vex 8](https://idozstubsy.github.io/games/assets/vex-8.htm)
 
-[Snow Rider 3D](https://idozstubsy.github.io/games/assets/snow-rider.htm)
-
-[Snow Road](https://idozstubsy.github.io/games/assets/snow-road.htm)
-
-[Rooftop Snipers](https://idozstubsy.github.io/games/assets/rooftop-snipers.htm)
-
-[Temple Run](https://idozstubsy.github.io/games/assets/temple-run-2.htm)
-
-[Soccer Random](https://idozstubsy.github.io/games/assets/soccer-random.htm)
-
-[Time Shooter 3](https://idozstubsy.github.io/games/assets/time-shooter-3.htm)
 
 [Minecraft 1.5.2](https://idozstubsy.github.io/games/assets/mc1.5.2.html)
 

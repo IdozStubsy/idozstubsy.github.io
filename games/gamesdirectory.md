@@ -4,6 +4,22 @@
 
 Games:
 
+[Vex 7](https://idozstubsy.github.io/games/assets/vex-7.htm)
+
+[Vex 8](https://idozstubsy.github.io/games/assets/vex-8.htm)
+
+[Snow Rider 3D](https://idozstubsy.github.io/games/assets/snow-rider.htm)
+
+[Snow Road](https://idozstubsy.github.io/games/assets/snow-road.htm)
+
+[Rooftop Snipers](https://idozstubsy.github.io/games/assets/rooftop-snipers.htm)
+
+[Temple Run](https://idozstubsy.github.io/games/assets/temple-run-2.htm)
+
+[Soccer Random](https://idozstubsy.github.io/games/assets/soccer-random.htm)
+
+[Time Shooter 3](https://idozstubsy.github.io/games/assets/time-shooter-3.htm)
+
 [Minecraft 1.5.2](https://idozstubsy.github.io/games/assets/mc1.5.2.html)
 
 [Minecraft 1.8](https://idozstubsy.github.io/games/assets/mc1.8.html)

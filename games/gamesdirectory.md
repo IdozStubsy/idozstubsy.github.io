@@ -1,6 +1,6 @@
 ## Games Directory
 
-[Home](https://idozstubsy.github.io/)
+**Want to search? Use your browsers find tool to search!**
 
 Games:
 

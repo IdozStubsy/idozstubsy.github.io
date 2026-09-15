@@ -1,6 +1,6 @@
 ## Games Directory
 
-__For Lance Vogt ❤️__
+__For (Removed Lmao)__
 
 **Want to search? Use your browsers find tool to search!**
 

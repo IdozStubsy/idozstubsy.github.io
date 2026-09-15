@@ -1,12 +1,18 @@
----
-layout: null
----
 [
-  {% for post in site.posts %}
-    {
-      "title": "{{ post.title | escape }}",
-      "url": "{{ post.url | relative_url }}",
-      "content": {{ post.content | strip_html | strip_newlines | jsonify }}
-    }{% unless forloop.last %},{% endunless %}
-  {% endfor %}
+  {
+    "title": "Home",
+    "url": "/",
+    "content": "Welcome to my website. This is the homepage."
+  },
+  {
+    "title": "About",
+    "url": "/about.html",
+    "content": "Information about this website and its creator."
+  },
+  {
+    "title": "Projects",
+    "url": "/projects.html",
+    "content": "My projects, experiments, and other work."
+  }
 ]
+

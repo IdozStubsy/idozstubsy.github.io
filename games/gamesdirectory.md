@@ -1,6 +1,6 @@
 ## Games Directory
 
-__For (Removed Lmao)__
+The Games Directory is being removed... If you would like to download The Games Directory, please download it here: [Will be added soon]
 
 **Want to search? Use your browsers find tool to search!**
 

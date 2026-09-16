@@ -1,6 +1,6 @@
-## Games Directory
+## Games Directory Backup
 
-The Games Directory is being removed... If you would like to download The Games Directory, please download it here: [Will be added soon]
+This is a backup of The Games Directory. The original games directory is ending soon :/
 
 **Want to search? Use your browsers find tool to search!**
 

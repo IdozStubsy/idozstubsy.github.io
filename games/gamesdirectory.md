@@ -1,4 +1,4 @@
-## Games Directory
+[Idoz's Site](https://idozstubsy.github.io) - **_[Directory](https://idozstubsy.github.io/games/gamesdirectory.html)_** - *[Updates](https://idozstubsy.github.io/updates.html)
 
 The Games Directory is staying!
 Also some new games are coming... STAY TUNED!

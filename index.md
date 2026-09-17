@@ -1,8 +1,9 @@
 ## Idoz's Site
 
-The Games Directory has been retired :(
+The Games Directory is [BACK](https://idozstubsy.github.io/games/gamesdirectory.html)!
 
-## Classic Games
+## Classic Games Section is being retired.
+_The games are **not** being removed, just this section on the home page._
 
 [Run 3](https://idozstubsy.github.io/404.html)
 

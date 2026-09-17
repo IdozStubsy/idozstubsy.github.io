@@ -1,6 +1,8 @@
 ## Games Directory
 
-The Games Directory is being removed... If you would like to still see the directory, use this [link](https://raw.githubusercontent.com/IdozStubsy/idozstubsy.github.io/refs/heads/main/games/assets/archive/directoryarchive.md).
+The Games Directory is staying!
+Also some new games are coming... STAY TUNED!
+This Page is also getting revamped soon!
 
 **Want to search? Use your browsers find tool to search!**
 

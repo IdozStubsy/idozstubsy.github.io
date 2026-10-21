@@ -5,7 +5,7 @@ The Games Directory is [BACK](https://idozstubsy.github.io/games/gamesdirectory.
 
 
 
-## Classic Games Section is being retired.
+## Everything has been removed, all games will no longer work.
 _The games are **not** being removed, just this section on the home page._
 
 [Run 3](https://idozstubsy.github.io/404.html)

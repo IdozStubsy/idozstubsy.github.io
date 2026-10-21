@@ -1,4 +1,4 @@
-## _**[Idoz's Site](https://idozstubsy.github.io)**_ - [Directory](https://idozstubsy.github.io/games/gamesdirectory.html) - [Updates](https://idozstubsy.github.io/updates.html)
+_**[Idoz's Site](https://idozstubsy.github.io)**_ - [Directory](https://idozstubsy.github.io/games/gamesdirectory.html) - [Updates](https://idozstubsy.github.io/updates.html)
 
 
 The Games Directory is [BACK](https://idozstubsy.github.io/games/gamesdirectory.html)!
